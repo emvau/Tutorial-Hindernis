@@ -13,7 +13,7 @@ Nenne sie **abstand**.
 ##  
 Füge eine ``||basic:dauerhaft||`` Schleife ein.
 Darin messen wir den Abstand mit dem Ultraschallsensor.
-Setze die Variable ``||variables:abstand||`` auf  ``||MaqueenPlusV2:abstand in cm (Pins TRIG P13/ECHO P14)``
+Setze die Variable ``||variables:abstand||`` auf  ``||MaqueenPlusV2:abstand in cm (pins TRIG P13/ECHO P14)``
 ##  
 Jetzt prüfen wir ob ein Hindernis nah ist.
 Füge eine ``||logic:wenn/dann/sonst||`` Bedingung ein:

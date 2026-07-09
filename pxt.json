@@ -1,0 +1,14 @@
+{
+    "name": "Maqueen – Hindernisvermeidung",
+    "description": "Der Maqueen stoppt automatisch vor Hindernissen",
+    "dependencies": {
+        "microbit": "*",
+        "maqueenPlusV2": "github:DFRobot/pxt-DFRobot_MaqueenPlus_v20"
+    },
+    "files": [
+        "hindernis.md"
+    ],
+    "targetVersions": {
+        "target": "7.0.0"
+    }
+}
